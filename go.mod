@@ -1,6 +1,6 @@
 module martinkruusement/cli-string-designer/v1.0.0
 
-go 1.21.6
+go 1.23
 
 require github.com/nsf/termbox-go v1.1.1
 
